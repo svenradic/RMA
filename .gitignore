@@ -1,0 +1,45 @@
+# === Android / Gradle ===
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build/
+captures/
+.externalNativeBuild/
+
+# === Jetpack Compose Preview cache ===
+.idea/composePreview/
+
+# === Logs and temp ===
+*.log
+*.tmp
+
+# === OS files ===
+Thumbs.db
+.DS_Store
+
+# === Kotlin/Java/Android specific ===
+*.apk
+*.ap_
+*.dex
+*.class
+
+# === IntelliJ project files ===
+.idea/
+
+# === Keystore / signing keys (DO NOT TRACK!) ===
+*.jks
+*.keystore
+
+# === Local test results ===
+/test-results/
+/out/
+
+# === Android Studio Crash Reports ===
+/crashlytics-build.properties
