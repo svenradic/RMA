@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611329703529",
+    "project_id": "rma-radic",
+    "storage_bucket": "rma-radic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611329703529:android:ed8ffa8cef0a9da8c2acf8",
+        "android_client_info": {
+          "package_name": "com.example.predlozak_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYZJ6QIZDfyYRsB8LwobXp3iy15vCinsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
